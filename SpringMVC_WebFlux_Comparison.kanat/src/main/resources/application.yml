@@ -1,0 +1,7 @@
+
+server:
+  reactive:
+    port: 8081
+  servlet:
+    port: 8080
+    
